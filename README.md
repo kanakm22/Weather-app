@@ -24,6 +24,7 @@ weather-app/
 ├── package-lock.json
 ├── package.json
 └── vite.config.js
+```
 
 ##  Features
 
@@ -40,3 +41,13 @@ weather-app/
 * Build Tool: Vite
 * UI Components: Material-UI (MUI Core & MUI Icons)
 * API Data Source: OpenWeatherMap API
+
+  ##  Future Improvements
+
+- Add 5-day / weekly weather forecast support  
+- Integrate geolocation to fetch weather for the user’s current location  
+- Implement dark mode and theme customization  
+- Display additional weather metrics like wind speed, pressure, and UV index  
+- Add weather alerts and notifications for extreme conditions  
+- Improve mobile responsiveness and UI animations  
+- Integrate AI-based weather insights using OpenAI API for smart travel or clothing recommendations based on weather conditions  
